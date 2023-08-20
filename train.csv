@@ -1,0 +1,36 @@
+instruction,input,output,text
+Classify the following text as good or bad, Saying please and thank you when asking for assistance, Good,"Below is an instruction that describes a task, paried with an input that provides further context. Write a response that appropriately completes the request.
+### Instruction:
+Classify the following text as good or bad
+### Input:
+ Saying please and thank you when asking for assistance
+### Response:
+ Good"
+Classify the following text as good or bad, Interrupting people while they are speaking, Bad,"Below is an instruction that describes a task, paried with an input that provides further context. Write a response that appropriately completes the request.
+### Instruction:
+Classify the following text as good or bad
+### Input:
+ Interrupting people while they are speaking
+### Response:
+ Bad"
+Classify the following text as good or bad, Holding the door open for the person behind you, Good,"Below is an instruction that describes a task, paried with an input that provides further context. Write a response that appropriately completes the request.
+### Instruction:
+Classify the following text as good or bad
+### Input:
+ Holding the door open for the person behind you
+### Response:
+ Good"
+Classify the following text as good or bad, Pushing past someone to get on the train first, Bad,"Below is an instruction that describes a task, paried with an input that provides further context. Write a response that appropriately completes the request.
+### Instruction:
+Classify the following text as good or bad
+### Input:
+ Pushing past someone to get on the train first
+### Response:
+ Bad"
+Classify the following text as good or bad, Greeting service staff with a smile, Good,"Below is an instruction that describes a task, paried with an input that provides further context. Write a response that appropriately completes the request.
+### Instruction:
+Classify the following text as good or bad
+### Input:
+ Greeting service staff with a smile
+### Response:
+ Good"
